@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mETHmatics ... but it's really only Mother who calls me that. To my friends, I am Thibault [...to my enemies I am fear itself!]
+- 👋 Hi, I’m @mETHmatics ... but, as you might have guessed, that's not my real name. It's a work in progress, but I'm compiling a philosophical anthology of works examining what is and what isn't really "real" in a digital space such as this.
 - 👀 I’m interested in ... structures, machines, systems, and change - naturally, I'm an engineer [...I tend not to like company very much, and I look askance at
 - society generally. I am in all aspects of life other than the professional utterly freaked out by change. Hate it. Can't abide it!!]
 - 🌱 I’m currently learning ... lots! Before yesterday I had never coded anything. Nothing. I'm a fast learner [...and fast learning I'm no longer the biggest
